@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro'),
+    url(~assets/fonts/FontsFree-Net-SFProDisplay-Regular.ttf) format('truetype');
+}
+
+html {
+  font-family: 'SF Pro';
+}
