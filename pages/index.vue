@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Shows />
     <TvApp />
     <AppleOne />
     <Content />
