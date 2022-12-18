@@ -208,6 +208,7 @@
         display: flex;
         align-items: center;
         padding-bottom: 100px;
+        cursor: pointer;
         .button {
           margin: 0 0.8em;
           font-size: 17px;
@@ -252,6 +253,7 @@
         margin-bottom: 36px;
       }
       .learn_more_container {
+        cursor: pointer;
         display: flex;
         align-items: center;
         width: 110px;

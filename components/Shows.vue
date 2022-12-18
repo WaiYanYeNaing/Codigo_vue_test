@@ -189,6 +189,7 @@ export default {
       margin: 18px 0 50px;
     }
     .play_pause {
+      cursor: pointer;
       width: 36px;
       height: 36px;
       margin: 18px 42px 50px 0;

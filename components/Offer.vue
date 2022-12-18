@@ -19,7 +19,11 @@
           Apple TV+ is included for 3 months when you purchase an Apple device
           and redeem the offer within 90 days.
         </div>
-        <div class="button">Check eligibility</div>
+        <div class="button">
+          <NuxtLink to="/TvApple" style="text-decoration: none"
+            >Check eligibility</NuxtLink
+          >
+        </div>
       </div>
       <div class="plan">
         <div class="eyebrow">Free 7-day trial</div>
@@ -28,7 +32,11 @@
           A monthly subscription is just $6.99 per month after a free 7-day
           trial. Share Apple TV+ with your family.
         </div>
-        <div class="button">Try if free</div>
+        <div class="button">
+          <NuxtLink to="/TvApple" style="text-decoration: none"
+            >Try if free</NuxtLink
+          >
+        </div>
       </div>
       <div class="plan">
         <div class="eyebrow">Free 1‑month trial</div>
@@ -37,7 +45,11 @@
           Bundle Apple TV+ with up to five other great services for one low
           monthly price. And enjoy more for less. Learn more
         </div>
-        <div class="button">Try Apple One free</div>
+        <div class="button">
+          <NuxtLink to="/TvApple" style="text-decoration: none"
+            >Try Apple One free</NuxtLink
+          >
+        </div>
       </div>
     </div>
   </div>

@@ -6,7 +6,11 @@
           All Apple Originals.<br />
           Only on Apple TV+.
         </div>
-        <div class="stream_now">Stream now</div>
+        <div class="stream_now">
+          <NuxtLink to="/TvApple" style="text-decoration: none"
+            >Stream now</NuxtLink
+          >
+        </div>
         <div class="watch">
           Watch on the
           <img

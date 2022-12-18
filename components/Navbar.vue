@@ -35,12 +35,20 @@
     </div>
     <div class="sticky_nav">
       <span class="apple_tv">Apple TV+</span>
-      <div class="stream">Stream now</div>
+      <div class="stream">
+        <NuxtLink to="/TvApple" style="text-decoration: none"
+          >Stream now</NuxtLink
+        >
+      </div>
     </div>
     <div class="notify">
       <div>
         MLS Season Pass. Stream every Major League Soccer match. Coming soon.*
-        <span>&nbsp;Notify me</span>
+        <span
+          ><NuxtLink to="/TvApple" style="text-decoration: none"
+            >&nbsp;Notify me</NuxtLink
+          >
+        </span>
 
         <img
           src="https://img.icons8.com/material-outlined/18/2997ff/forward.png"
