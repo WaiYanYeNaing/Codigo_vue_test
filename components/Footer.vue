@@ -1,5 +1,5 @@
 <template>
-  <div class="div_container">
+  <div class="footer_main_container">
     <!-- Foot Notes -->
     <div class="foot_notes_container">
       <div>
@@ -224,7 +224,7 @@ export default {
 
 <style lang="scss">
 @import '~assets/variables';
-.div_container {
+.footer_main_container {
   font-family: 'SF Pro';
   font-size: 12px;
   background-color: #f5f5f7;

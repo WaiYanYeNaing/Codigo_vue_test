@@ -1,5 +1,7 @@
 <template>
   <div>
+    <TvApp />
+    <AppleOne />
     <Content />
     <Footer />
   </div>

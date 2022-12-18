@@ -82,10 +82,11 @@
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .div_container {
   width: 97%;
   margin: 0 auto;
+  padding-top: 39px;
   background-color: #fff;
   //   Student Plan
   .student_plan_container {
@@ -279,24 +280,34 @@
     }
   }
   @media (max-width: 750px) {
-    .tv_4k {
-      width: 100% !important;
-      .typography_container {
-        padding-bottom: 20px !important;
+    .lower_container {
+      margin-top: 15px;
+      margin-bottom: 15px;
+      .tv_4k {
+        width: 100% !important;
+        .typography_container {
+          padding-bottom: 20px !important;
+        }
+        .tv4k_img {
+          width: 80% !important;
+        }
       }
-      .tv4k_img {
-        width: 80% !important;
+      .airplay {
+        width: 100% !important;
+        margin-top: 15px;
+        .learn_more_container {
+          margin: 0 auto 20px !important;
+        }
+        .airplay_img {
+          width: 80% !important;
+        }
       }
     }
-    .airplay {
-      width: 100% !important;
-      .learn_more_container {
-        margin: 0 auto 20px !important;
-      }
-      .airplay_img {
-        width: 80% !important;
-      }
-    }
+  }
+}
+@media (max-width: 750px) {
+  .div_container {
+    padding-top: 15px;
   }
 }
 </style>
