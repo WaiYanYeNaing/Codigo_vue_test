@@ -122,6 +122,7 @@
         align-items: center;
         width: 110px;
         .learn_more {
+          cursor: pointer;
           color: #06c;
           font-size: 19px;
           line-height: 1.2105263158;

@@ -15,7 +15,10 @@
     <!-- Typography -->
     <div class="typography">
       Find the Apple TV app on your favorite Apple devices.<br />
-      Or watch Apple TV+ online at <span class="link">tv.apple.com.</span>
+      Or watch Apple TV+ online at
+      <NuxtLink to="/TvApple" style="text-decoration: none"
+        ><span class="link">tv.apple.com.</span></NuxtLink
+      >
     </div>
     <!-- Buildin -->
     <div class="buildin">
@@ -200,6 +203,7 @@
   .setup {
     display: flex;
     align-items: center;
+    cursor: pointer;
     color: #06c;
     font-size: 17px;
     line-height: 1.4705882353;
@@ -210,6 +214,7 @@
   .explore {
     display: flex;
     align-items: center;
+    cursor: pointer;
     color: #06c;
     font-size: 17px;
     line-height: 1.4705882353;

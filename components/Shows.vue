@@ -40,17 +40,18 @@
     <!-- See Full -->
     <div class="see_full_container">
       <div style="width: 80px" />
-      <div class="see_full">
-        See full lineup
+      <NuxtLink to="/TvApple" style="text-decoration: none">
+        <div class="see_full">
+          See full lineup
+          <img
+            src="https://img.icons8.com/material-outlined/18/ffffff/forward.png"
+          /></div></NuxtLink
+      ><NuxtLink to="/TvApple" style="text-decoration: none">
         <img
-          src="https://img.icons8.com/material-outlined/18/ffffff/forward.png"
-        />
-      </div>
-      <img
-        class="play_pause"
-        src="https://www.apple.com/v/apple-tv-plus/ag/images/overview/controls/pause_icon__dctqqxjvvpme_large.svg"
-        alt=""
-      />
+          class="play_pause"
+          src="https://www.apple.com/v/apple-tv-plus/ag/images/overview/controls/pause_icon__dctqqxjvvpme_large.svg"
+          alt=""
+      /></NuxtLink>
     </div>
   </div>
 </template>
