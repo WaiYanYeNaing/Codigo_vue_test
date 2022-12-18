@@ -20,7 +20,7 @@
           and redeem the offer within 90 days.
         </div>
         <div class="button">
-          <NuxtLink to="/TvApple" style="text-decoration: none"
+          <NuxtLink to="/TvApple" style="text-decoration: none; color: black"
             >Check eligibility</NuxtLink
           >
         </div>
@@ -33,7 +33,7 @@
           trial. Share Apple TV+ with your family.
         </div>
         <div class="button">
-          <NuxtLink to="/TvApple" style="text-decoration: none"
+          <NuxtLink to="/TvApple" style="text-decoration: none; color: black"
             >Try if free</NuxtLink
           >
         </div>
@@ -46,7 +46,7 @@
           monthly price. And enjoy more for less. Learn more
         </div>
         <div class="button">
-          <NuxtLink to="/TvApple" style="text-decoration: none"
+          <NuxtLink to="/TvApple" style="text-decoration: none; color: black"
             >Try Apple One free</NuxtLink
           >
         </div>

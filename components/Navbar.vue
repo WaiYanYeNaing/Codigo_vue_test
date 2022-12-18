@@ -36,7 +36,7 @@
     <div class="sticky_nav">
       <span class="apple_tv">Apple TV+</span>
       <div class="stream">
-        <NuxtLink to="/TvApple" style="text-decoration: none"
+        <NuxtLink to="/TvApple" style="text-decoration: none; color: black"
           >Stream now</NuxtLink
         >
       </div>
@@ -45,7 +45,7 @@
       <div>
         MLS Season Pass. Stream every Major League Soccer match. Coming soon.*
         <span
-          ><NuxtLink to="/TvApple" style="text-decoration: none"
+          ><NuxtLink to="/TvApple" style="text-decoration: none; color: #2997ff"
             >&nbsp;Notify me</NuxtLink
           >
         </span>
