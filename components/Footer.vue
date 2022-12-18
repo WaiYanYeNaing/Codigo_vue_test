@@ -89,53 +89,54 @@
         </v-col>
         <v-col cols="12" lg="2" md="3" sm="4">
           <div class="apple_title">Apple Store</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Find a Store</div>
+          <div>Genius Bar</div>
+          <div>Today at Apple</div>
+          <div>Apple Camp</div>
+          <div>Apple Store App</div>
+          <div>Refurbished and Clearance</div>
+          <div>Financing</div>
+          <div>Apple Trade In</div>
+          <div>Order Status</div>
+          <div>Shopping Help</div>
         </v-col>
         <v-col cols="12" lg="2" md="3" sm="4">
           <div class="apple_title">For Business</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Apple and Business</div>
+          <div>Shop for Business</div>
           <div class="apple_title" style="padding-top: 24px">For Education</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Apple and Education</div>
+          <div>Shop for K-12</div>
+          <div>Shop for College</div>
           <div class="apple_title" style="padding-top: 24px">
             For Healthcare
           </div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Apple in Healthcare</div>
+          <div>Health on Apple Watch</div>
+          <div>Health Records on iPhone</div>
           <div class="apple_title" style="padding-top: 24px">
             For Government
           </div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Shop for Government</div>
+          <div>Shop for Veterans and Military</div>
         </v-col>
         <v-col cols="12" lg="2" md="3" sm="4">
           <div class="apple_title">Apple Values</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Accessibility</div>
+          <div>Education</div>
+          <div>Environment</div>
+          <div>Inclusion and Diversity</div>
+          <div>Privacy</div>
+          <div>Racial Equity and Justice</div>
+          <div>Supplier Responsibility</div>
           <div class="apple_title" style="padding-top: 24px">About Apple</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
-          <div>xaxax</div>
+          <div>Newsroom</div>
+          <div>Apple Leadership</div>
+          <div>Career Opportunities</div>
+          <div>Investors</div>
+          <div>Ethics & Compliance</div>
+          <div>Events</div>
+          <div>Contact Apple</div>
         </v-col>
       </v-row>
     </div>

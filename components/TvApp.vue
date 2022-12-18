@@ -239,6 +239,16 @@
       flex-basis: 33%;
       margin-bottom: 30px;
     }
+    .external_buildin {
+      .external_buildin_item {
+        flex-basis: 33%;
+        max-width: 33%;
+        img {
+          max-width: 82px;
+          max-height: 51px;
+        }
+      }
+    }
   }
 }
 @media only screen and (max-width: 1000px) {

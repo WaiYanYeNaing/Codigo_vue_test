@@ -20,6 +20,12 @@
           alt=""
         />
       </div>
+      <div class="feature_show">
+        <img
+          src="https://is5-ssl.mzstatic.com/image/thumb/Features122/v4/4b/06/a2/4b06a27a-2f1e-854d-acb3-db320855597f/a6d0e889-dfd7-4d84-aeac-cf46d1c364ad.png/735x1590.jpg"
+          alt=""
+        />
+      </div>
       <div class="feature_show">SHows</div>
       <div class="feature_show">SHows</div>
     </div>
@@ -108,10 +114,11 @@ export default {
   background: #000;
   //   Feature Shows Slider
   .feature_shows_container {
-    height: 312px;
+    height: auto;
     display: flex;
     margin-bottom: 15px;
     margin-left: -250px;
+    overflow-x: hidden;
     .feature_show {
       img {
         width: 555px;
@@ -128,6 +135,7 @@ export default {
     padding: 0;
     white-space: nowrap;
     font-size: 0;
+    overflow-x: hidden;
     img {
       width: 378px;
       height: 212px;
@@ -144,6 +152,7 @@ export default {
     padding: 0;
     white-space: nowrap;
     font-size: 0;
+    overflow-x: hidden;
     img {
       width: 378px;
       height: 212px;
@@ -198,6 +207,16 @@ export default {
         width: 210px !important;
         height: 118px !important;
         margin: 0 7px 14px;
+      }
+    }
+  }
+  @media only screen and (max-width: 733px) {
+    .feature_shows_container {
+      .feature_show {
+        img {
+          width: 278px;
+          height: 494px;
+        }
       }
     }
   }

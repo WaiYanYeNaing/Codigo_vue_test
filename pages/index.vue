@@ -1,5 +1,8 @@
 <template>
   <div>
+    <Navbar />
+    <Poster />
+    <Offer />
     <Shows />
     <TvApp />
     <AppleOne />
